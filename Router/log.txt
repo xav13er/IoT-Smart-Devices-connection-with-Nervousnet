@@ -1,0 +1,12 @@
+2016-04-22 15:01:29.372 - [I] - Reading configuration file done
+2016-04-22 15:01:30.633 - [I] - Establishing connection to SQL database done
+2016-04-22 15:01:33.701 - [I] - Setting up concurrent server done
+2016-04-22 15:03:29.619 - [I] - Reading configuration file done
+2016-04-22 15:03:30.182 - [I] - Establishing connection to SQL database done
+2016-04-22 15:03:32.18 - [I] - Setting up concurrent server done
+2016-04-22 15:03:46.287 - [I] - Reading configuration file done
+2016-04-22 15:03:47.139 - [I] - Establishing connection to SQL database done
+2016-04-22 15:03:49.001 - [I] - Setting up concurrent server done
+2016-04-22 15:06:37.162 - [I] - Reading configuration file done
+2016-04-22 15:06:37.762 - [I] - Establishing connection to SQL database done
+2016-04-22 15:06:39.904 - [I] - Setting up concurrent server done
